@@ -59,6 +59,11 @@ const authors = {
     link: 'https://twitter.com/piglovesyou1',
     github: 'piglovesyou',
   },
+  giladtidhar: {
+    name: 'Gilad Tidhar',
+    link: 'https://twitter.com/tidhar_gilad',
+    github: 'giladd123',
+  },
   gmac: {
     name: 'Greg MacWilliam',
     link: 'https://twitter.com/gmacwilliam',
